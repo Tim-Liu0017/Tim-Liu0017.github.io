@@ -13,7 +13,9 @@ redirect_from:
 
 I'm a final year undergraduate student from [School of Architecture and Design](https://arch.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be supervised by [Prof. Fangxin Wang](https://sse.cuhk.edu.cn/faculty/wangfangxin) of NAIS Lab from [School of Science and Engineering](https://sse.cuhk.edu.cn/), Chinese University of Hong Kong, Shenzhen. I was advised by [Prof. Jiafeng Liu](https://homepage.hit.edu.cn/jefferyliu) from [Faculty of Computing](https://computing.hit.edu.cn/), Harbin Institute of Technology.
+I am very fortunate to be supervised by [Prof. Fangxin Wang](https://sse.cuhk.edu.cn/faculty/wangfangxin) of NAIS Lab from [School of Science and Engineering](https://sse.cuhk.edu.cn/), The Chinese University of Hong Kong, Shenzhen. I was advised by [Prof. Jiafeng Liu](https://homepage.hit.edu.cn/jefferyliu) from [Faculty of Computing](https://computing.hit.edu.cn/), Harbin Institute of Technology.
+
+You can find my CV here: [Zeyuan Liu's Curriculum Vitae](../assets/CV.pdf).
 
 <!--A data-driven personal website
 ======
